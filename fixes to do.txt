@@ -1,0 +1,5 @@
+*
+    puede encontrar la biografia de la banda pero no la letra: mostrar mensaje de "letra no encontrada" o "bio no encontrada" o bien directamente no mostrar nada si no estan las dos y mostrar que no encontro la dicha banda/cancion
+
+* 
+    Mejorar interfaz: estetica
